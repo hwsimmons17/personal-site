@@ -21,3 +21,11 @@ body {
 h1 {
   font-size: xx-large;
 }
+
+h2 {
+  font-size: x-large;
+}
+
+a:hover {
+  color: rgb(191 219 254);
+}
