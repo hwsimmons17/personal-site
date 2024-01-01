@@ -18,7 +18,9 @@ export default function Home() {
         <p>John Lewis Gaddis</p>
         <p>Rating: 3/5</p>
         <p>Interesting high level summary of war</p>
-        <p>It&apos;s easy to lose one's bearings when one becomes successful</p>
+        <p>
+          It&apos;s easy to lose one&apos;s bearings when one becomes successful
+        </p>
       </div>
       <div className="mt-8 w-96">
         <a href="https://www.amazon.com/Creativity-Inc-Expanded-Overcoming-Inspiration/dp/0593594649/ref=sr_1_1?crid=JQ675226KDDL&keywords=creativity+inc&qid=1704085931&sprefix=creativity+inc%2Caps%2C156&sr=8-1">
