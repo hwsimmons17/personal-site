@@ -256,6 +256,185 @@ export default function Home() {
       </div>
 
       <h2 className="mt-4">2022</h2>
+
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805/ref=sr_1_1?crid=1FZEG6FPHL9Z&keywords=never+split+the+difference+chris+voss&qid=1704160250&sprefix=never+spli%2Caps%2C156&sr=8-1">
+          <b>Never Split the Difference</b>
+        </a>
+        <p>Chris Voss</p>
+        <p>Rating: 4/5</p>
+        <p>Great book on negtiation and communication</p>
+        <p>
+          Negotiating is just communicating and it is in the other party&apos;s
+          best interested to be well negotiated with
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Carthage-Must-Be-Destroyed-Civilization/dp/0143121294/ref=sr_1_1?crid=17UJLKN8WLE71&keywords=carthage+must+be+destroyed&qid=1704160360&sprefix=carthage+must+be+destroye%2Caps%2C158&sr=8-1">
+          <b>Carthage Must Be Destroyed</b>
+        </a>
+        <p>Richard Miles</p>
+        <p>Rating: 3/5</p>
+        <p>Interesting book on the rise and fall of Carthage</p>
+        <p>The same forces that affected the ancient world affect us today</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ref=sr_1_1?crid=3CBBANM55N3TR&keywords=the+culture+code&qid=1704160454&sprefix=the+culture+cod%2Caps%2C174&sr=8-1">
+          <b>The Culture Code</b>
+        </a>
+        <p>Daniel Coyle</p>
+        <p>Rating: 4/5</p>
+        <p>A guide to building a strong culture</p>
+        <p>Cultures work best when people feel comftorable to be themselves</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X/ref=sr_1_1?crid=PYABT9CAI745&keywords=emotional+intelligence+daniel+goleman+book&qid=1704160618&sprefix=emotional+inteligence%2Caps%2C177&sr=8-1">
+          <b>Emotional Inteligence</b>
+        </a>
+        <p>Daniel Goleman</p>
+        <p>Rating: 2/5</p>
+        <p>Scientific book on the science of emotional inteligence</p>
+        <p>
+          Understanding social situations can be more valuable than being smart
+          in a traditional sense
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_1?crid=1LI1MCJIE8D5F&keywords=start+with+why&qid=1704160744&sprefix=start+with+why%2Caps%2C196&sr=8-1">
+          <b>Start with Why</b>
+        </a>
+        <p>Simon Sinek</p>
+        <p>Rating: 4/5</p>
+        <p>A study into successful people/organizations</p>
+        <p>Understanding my personal why will help me be more successful</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Crux-How-Leaders-Become-Strategists/dp/1541701240/ref=sr_1_1?crid=MZDBNJ36WC98&keywords=the+crux&qid=1704160893&sprefix=the+crux%2Caps%2C198&sr=8-1">
+          <b>The Crux</b>
+        </a>
+        <p>Richard Rumelt</p>
+        <p>Rating: 3/5</p>
+        <p>A book on corporate strategy</p>
+        <p>Focus on the challenges ahead</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Iliad-Homer/dp/0140275363/ref=sr_1_3?crid=22UOJKK9TNORH&keywords=the+iliad&qid=1704161044&sprefix=the+ilia%2Caps%2C203&sr=8-3">
+          <b>The Iliad</b>
+        </a>
+        <p>Homer</p>
+        <p>Rating: 3/5</p>
+        <p>Epic poem about the Trojan War</p>
+        <p>Adjectives can make my writting better</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/The-History-of-Money-audiobook/dp/B0038NLX5W/ref=sr_1_1?crid=1STB7LD7IJN0J&keywords=the+history+of+money&qid=1704161138&sprefix=the+history+of+money%2Caps%2C160&sr=8-1">
+          <b>The History of Money</b>
+        </a>
+        <p>Jack Weatherford</p>
+        <p>Rating: 4/5</p>
+        <p>
+          A modern history of money and the people that shaped our relationship
+          with money
+        </p>
+        <p>
+          Many things we take for granite come from years of interconected
+          history
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103/ref=sr_1_1?crid=IZRLGK120NWA&keywords=letters+from+a+stoic+seneca&qid=1704161303&sprefix=letters+from+a+stoic%2Caps%2C316&sr=8-1">
+          <b>Letters from a Stoic</b>
+        </a>
+        <p>Seneca</p>
+        <p>Rating: 1/5</p>
+        <p>Seneca&apos;s teachings on stoicism</p>
+        <p>Honestly didn&apos;t take anything from this book</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Turn-Ship-Around-Building-Breaking/dp/0241250943/ref=sr_1_1?crid=3EY59L72G418R&keywords=turn+the+ship+around&qid=1704161383&sprefix=turn+the+ship+around%2Caps%2C155&sr=8-1">
+          <b>Turn the Ship Around</b>
+        </a>
+        <p>David Marquet</p>
+        <p>Rating: 5/5</p>
+        <p>David Marquet&apos;t take on leadership</p>
+        <p>
+          The most powerful kind of leadership is one where the leader steps out
+          of the way and lets other exercise power when possible
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749/ref=sr_1_1?crid=SIR6TDNC9TGB&keywords=cold+start+problem&qid=1704161599&sprefix=cold+start+problem%2Caps%2C160&sr=8-1">
+          <b>The Cold Start Problem</b>
+        </a>
+        <p>Andrew Chen</p>
+        <p>Rating: 3/5</p>
+        <p>Andrew Chen&apos;s take on growing two-sided markets</p>
+        <p>Two sided markets are usually about one side of the market more</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749/ref=sr_1_1?crid=SIR6TDNC9TGB&keywords=cold+start+problem&qid=1704161599&sprefix=cold+start+problem%2Caps%2C160&sr=8-1">
+          <b>Antifragile</b>
+        </a>
+        <p>Nassim Taleb</p>
+        <p>Rating: 5/5</p>
+        <p>A study into things that improve from randomness/time/disorder</p>
+        <p>
+          What are things I can do to expose myself to things that improve with
+          uncertainty because the only thing certain is uncertainty?
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/0609809644/ref=sr_1_1?crid=FYZMAQZXWR29&keywords=genghis+khan+and+the+making+of+the+modern+world&qid=1704162037&sprefix=gengis+khan%2Caps%2C202&sr=8-1">
+          <b>Genghis Khan and the Making of the Modern World</b>
+        </a>
+        <p>Jack Weatherford</p>
+        <p>Rating: 5/5</p>
+        <p>
+          Fascinating history of Genghis Khan and his effect on the modern world
+        </p>
+        <p>Deep struggles can lead to great success</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/0609809644/ref=sr_1_1?crid=FYZMAQZXWR29&keywords=genghis+khan+and+the+making+of+the+modern+world&qid=1704162037&sprefix=gengis+khan%2Caps%2C202&sr=8-1">
+          <b>Genghis Khan and the Making of the Modern World</b>
+        </a>
+        <p>Jack Weatherford</p>
+        <p>Rating: 5/5</p>
+        <p>
+          Fascinating history of Genghis Khan and his effect on the modern world
+        </p>
+        <p>Deep struggles can lead to great success</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331/ref=sr_1_1?crid=4IDX8XSVLWLD&keywords=what+you+do+is+who+you+are+ben+horowitz&qid=1704162268&sprefix=what+you+do+is+w%2Caps%2C193&sr=8-1">
+          <b>What You Do is Who You Are</b>
+        </a>
+        <p>Ben Horowitz</p>
+        <p>Rating: 4/5</p>
+        <p>A look at how great leaders create great cultures</p>
+        <p>Toussaint Louverture was a fascinating dude</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Blitzed-Norman-Ohler/dp/1328915344/ref=sr_1_1?crid=18LPSVSU45OBK&keywords=blitzed+drugs+in+nazi+germany&qid=1704162375&sprefix=blitzed+%2Caps%2C188&sr=8-1">
+          <b>Blitzed: Drugs in the Third Reich</b>
+        </a>
+        <p>Norman Ohler</p>
+        <p>Rating: 5/5</p>
+        <p>A fun look into how drugs changed Nazi Germany</p>
+        <p>Evil does not pay in the end</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?crid=FVO7DS3D72KM&keywords=high+output+management&qid=1704162513&sprefix=high+output+management%2Caps%2C186&sr=8-1">
+          <b>High Output Management</b>
+        </a>
+        <p>Andy Grove</p>
+        <p>Rating: 4/5</p>
+        <p>A Bible of sorts on management in tech</p>
+        <p>
+          There should always be a final decision maker in the room, otherwise
+          decisions will not get made
+        </p>
+      </div>
     </main>
   );
 }
