@@ -10,6 +10,21 @@ export default function Home() {
       <h1>Books</h1>
       <p>A list of books I&apos;ve read and what I thought about them</p>
 
+      <h2 className="mt-4">2024</h2>
+
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Napoleon-Life-Andrew-Roberts/dp/0143127853/ref=asc_df_0143127853/?tag=hyprod-20&linkCode=df0&hvadid=312021252609&hvpos=&hvnetw=g&hvrand=9416865979249217082&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029471&hvtargid=pla-435230722737&psc=1&mcid=cc5ea21cd03a3a94974cbb2d6753f6bc">
+          <b>Napoleon: A Life</b>
+        </a>
+        <p>Andrew Roberts</p>
+        <p>Rating: 4/5</p>
+        <p>Fascinating book on Napoleon&apos;s life</p>
+        <p>
+          It is important to understand catastrophic weaknesses and hedge
+          against those
+        </p>
+      </div>
+
       <h2 className="mt-4">2023</h2>
 
       <div className="mt-8 w-96">
