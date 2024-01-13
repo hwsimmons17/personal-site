@@ -463,7 +463,7 @@ export default function Home() {
         <p>I can be more persuasive in my communications</p>
       </div>
 
-      <h2 className="mt-4">2022</h2>
+      <h2 className="mt-4">2021</h2>
 
       <div className="mt-8 w-96">
         <a href="https://www.amazon.com/Cult-We-Neumann-Startup-Delusion/dp/0593237137/ref=sr_1_1?crid=1WW813E840803&dib=eyJ2IjoiMSJ9.Er0ylscNdtEQEjp3Ro3STLmjYrVxkvpkSQcTS_mV4ZMSZkDTbJxCs16obacGTSOSI32t_iXBNeTVqWWi_9y5UVqiJKxZeNXbIfRXfp-28FzPDjurEQQMzBqGr_--yHaXOfZbpGNJmsgdPB9OBBMhrw.zhBu14gaEqatrSeUD3ubuCIkXTqJCnUo2pO5HmANy10&dib_tag=se&keywords=the+cult+of+we&qid=1705187500&s=books&sprefix=the+cult+of+we%2Cstripbooks%2C193&sr=1-1">
@@ -513,6 +513,8 @@ export default function Home() {
           time and can be captured through hard work and a bit of luck
         </p>
       </div>
+
+      <h2 className="mt-4">2020</h2>
     </main>
   );
 }
