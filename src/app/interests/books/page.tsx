@@ -87,15 +87,6 @@ export default function Home() {
         <p>Achievement only comes in the crucible of adversity</p>
       </div>
       <div className="mt-8 w-96">
-        <a href="https://www.amazon.com/Joseph-Smith-Rough-Stone-Rolling/dp/1400077532/ref=sr_1_1?crid=2EINWLFEHES8X&keywords=rough+stone+rolling&qid=1704135712&sprefix=rough+stone+rolling%2Caps%2C140&sr=8-1">
-          <b>Joseph Smith: Rough Stone Rolling</b>
-        </a>
-        <p>Richard Lyman Bushman</p>
-        <p>Rating: 4/5</p>
-        <p>Great biography of Joseph Smith. Humanized a figure I look up to</p>
-        <p>Achievement only comes in the crucible of adversity</p>
-      </div>
-      <div className="mt-8 w-96">
         <a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?crid=1NHBAY4QB3L49&keywords=fooled+by+randomness&qid=1704136035&sprefix=fooled+by+randomnes%2Caps%2C142&sr=8-1">
           <b>Fooled by Randomness</b>
         </a>
@@ -410,17 +401,6 @@ export default function Home() {
         <p>Deep struggles can lead to great success</p>
       </div>
       <div className="mt-8 w-96">
-        <a href="https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/0609809644/ref=sr_1_1?crid=FYZMAQZXWR29&keywords=genghis+khan+and+the+making+of+the+modern+world&qid=1704162037&sprefix=gengis+khan%2Caps%2C202&sr=8-1">
-          <b>Genghis Khan and the Making of the Modern World</b>
-        </a>
-        <p>Jack Weatherford</p>
-        <p>Rating: 5/5</p>
-        <p>
-          Fascinating history of Genghis Khan and his effect on the modern world
-        </p>
-        <p>Deep struggles can lead to great success</p>
-      </div>
-      <div className="mt-8 w-96">
         <a href="https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331/ref=sr_1_1?crid=4IDX8XSVLWLD&keywords=what+you+do+is+who+you+are+ben+horowitz&qid=1704162268&sprefix=what+you+do+is+w%2Caps%2C193&sr=8-1">
           <b>What You Do is Who You Are</b>
         </a>
@@ -448,6 +428,89 @@ export default function Home() {
         <p>
           There should always be a final decision maker in the room, otherwise
           decisions will not get made
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Strategy-Conflict-New-Preface-Author/dp/0674840313/ref=sr_1_1?crid=LDJJ1D0NVD8M&dib=eyJ2IjoiMSJ9.NMkBE-ql2Vv5TzreUe3ZLSxFSA8y5ZmkOPmgDhTmTqE8vBIW63sxMunotsZAwEuOD1Omf5Mryz_5RVKKbAVlbs8OLKbJ2AFCHYdal6Em7mGB03d3PbCH1heEJyQwTnOqvMpEq83R1o73j_X_DfqWJQ.CGgH7zh_-xtyZTyXUX0U7Z9wAlE5GctSKoJrm5cjF-k&dib_tag=se&keywords=the+strategy+of+conflict&qid=1705187029&s=books&sprefix=the+strategy+of+conflic%2Cstripbooks%2C188&sr=1-1">
+          <b>The Strategy of Conflict</b>
+        </a>
+        <p>Thomas Schelling</p>
+        <p>Rating: 2/5</p>
+        <p>A guide on how to act in conflicts</p>
+        <p>Honestly didn&apos;t take much from the book. Very forgettable</p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788/ref=sr_1_1?crid=WOCHI8T20YVH&dib=eyJ2IjoiMSJ9.EX5Q93ctTJ3l1Iy9X2ErIl0LF4gs7wreq9Vx5E1W8BejJQ0BBkREscC5xEPA2TIAS4Wbhl5c6q5t1esL3FxjEUlwuavZLqbnukufpAOERQd8hubbFbOCvfAVKKOSpqichvXsGstNgn9oyOM-_gJA0w.zrAC014rN6cDPJ2RmOEIFA0rk--SC3P2YBGZwQxtiDg&dib_tag=se&keywords=founders+at+work&qid=1705187164&s=books&sprefix=founders+at+work%2Cstripbooks%2C176&sr=1-1">
+          <b>Founders at Work</b>
+        </a>
+        <p>Jessica Livingston</p>
+        <p>Rating: 5/5</p>
+        <p>
+          Interviews with some of the most successful founders in Silicon Valley
+        </p>
+        <p>
+          Solving problems for others is the best way to create a successful
+          business
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109804/ref=sr_1_1?crid=13BXCMNG6E5WJ&dib=eyJ2IjoiMSJ9.OQU1_TRCZztvIXY79PT5VkNbm25qa6cGY7x93AwiUzY5w9rPbS_dDlN3WQFcOGtB3STMEV_zPeFkHN9OlDnQBw8oGheiISHaBScpZUn_Yd7LsbDQjTzEI_8jrFJVfuqAhaBFqCcrmoyM92ohhlxrig.63KqgaO37jSCykPvfeuXJ3gjAcmHKcBzmw5zm6rpDgk&dib_tag=se&keywords=pre-suasion&qid=1705187287&s=books&sprefix=persuasion%2Cstripbooks%2C147&sr=1-1">
+          <b>Pre-Suasion</b>
+        </a>
+        <p>Robert Cialdini</p>
+        <p>Rating: 2/5</p>
+        <p>We persuade people by setting the stage for them to be persuaded</p>
+        <p>I can be more persuasive in my communications</p>
+      </div>
+
+      <h2 className="mt-4">2022</h2>
+
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Cult-We-Neumann-Startup-Delusion/dp/0593237137/ref=sr_1_1?crid=1WW813E840803&dib=eyJ2IjoiMSJ9.Er0ylscNdtEQEjp3Ro3STLmjYrVxkvpkSQcTS_mV4ZMSZkDTbJxCs16obacGTSOSI32t_iXBNeTVqWWi_9y5UVqiJKxZeNXbIfRXfp-28FzPDjurEQQMzBqGr_--yHaXOfZbpGNJmsgdPB9OBBMhrw.zhBu14gaEqatrSeUD3ubuCIkXTqJCnUo2pO5HmANy10&dib_tag=se&keywords=the+cult+of+we&qid=1705187500&s=books&sprefix=the+cult+of+we%2Cstripbooks%2C193&sr=1-1">
+          <b>The Cult of We</b>
+        </a>
+        <p>Eliot Brown</p>
+        <p>Rating: 4/5</p>
+        <p>A fun book on the rise and fall of WeWork</p>
+        <p>
+          Adding value and extracting value are two very different things. Be
+          humble when I extract value
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/ref=sr_1_1?crid=ID7Y5ZTQGQD9&dib=eyJ2IjoiMSJ9.MHDpDVrNhYr-2Bjm0moClYSFeA9wsu2Cf8V-2z7Cr7WabZS-xkTkJKIWKWDSFPERR34Z5MMWdrnett9u9jFpg8UBxwQ3sbuTjA3Zy0ePwkFFX8-i_j2o-WKdFTaJ1T0AYGK_k2yAPCCfkg88gBEaBA.XMyE5Y8v9VFWSuYzGPGtlkxYsOQFL7_tzieNneXbFq4&dib_tag=se&keywords=only+the+paranoid+survive&qid=1705187635&s=books&sprefix=only+the+paranoid+survive%2Cstripbooks%2C163&sr=1-1">
+          <b>Only the Paranoid Survive</b>
+        </a>
+        <p>Andrew Grove</p>
+        <p>Rating: 5/5</p>
+        <p>Andy Grove&apos;s account from his time at Intel</p>
+        <p>
+          A leader must understand when people&apos;s feedback is noise or a
+          bellweather for a looming problem
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Warburgs-Twentieth-Century-Odyssey-Remarkable-Jewish/dp/0525431837/ref=sr_1_1?crid=1245XM714DQ1J&dib=eyJ2IjoiMSJ9.9hepVs2z2wSDRXJSz0bODGbTzv8_atOvwMvEeQN0Vab-D6_Y6OzUjEZtN0y1xfg12h7e-NxYstiUjxvxow6gaTgwedH-9Q8ugkGVr1PbKu9fGblup7-BKlt7MyQlSoJuHYisbpcmyAS1MMo4Ghczdw.f1LvlA4iQ2NhmiFOmIYZmbGiEZxVpLkXXIrZyvTaTNc&dib_tag=se&keywords=the+warburgs&qid=1705187828&s=books&sprefix=the+warburg%2Cstripbooks%2C235&sr=1-1">
+          <b>The Warburgs</b>
+        </a>
+        <p>Ron Chernow</p>
+        <p>Rating: 3/5</p>
+        <p>A study into the family of the Warburgs</p>
+        <p>
+          Greatness is achieved through starting small, being in the right place
+          at the right time, and understanding what is important and what is not
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/House-Morgan-American-Banking-Dynasty/dp/0802144659/ref=sr_1_1?crid=3ASI09Z0G62UI&dib=eyJ2IjoiMSJ9.Ws7Guzj9hcs048vwP6S7pL9_ktBLqa0DRLwI-B2YJGutd45TEpl50UQbHcHOgWbmxacnZfJyMx1Vc1YJKXNiq_rdhNx7u5ZMABbT2Q4OsLzM9AalQyMT6U4hDpIMh0DBvPlc55uztB_tXltJsMSqdw.nQ8IVQyrFo9NdNLVgnQyY8Sb-tprPxW7OZUhHVHmGiE&dib_tag=se&keywords=the+house+of+morgan&qid=1705188006&s=books&sprefix=the+house+of+morgan%2Cstripbooks%2C171&sr=1-1">
+          <b>The House of Morgan</b>
+        </a>
+        <p>Ron Chernow</p>
+        <p>Rating: 4/5</p>
+        <p>A study into the modern history of banking and JP Morgan</p>
+        <p>
+          Wealth is created sometimes by being at the right place at the right
+          time and can be captured through hard work and a bit of luck
         </p>
       </div>
     </main>
