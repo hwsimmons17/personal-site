@@ -13,6 +13,18 @@ export default function Home() {
       <h2 className="mt-4">2024</h2>
 
       <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374/ref=asc_df_0316204374/?tag=hyprod-20&linkCode=df0&hvadid=312069250960&hvpos=&hvnetw=g&hvrand=11736503483181217803&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029605&hvtargid=pla-434062911726&psc=1&mcid=cfae89efd6b2340f935b3722b81bb6ac&tag=&ref=&adgrpid=61316180599&hvpone=&hvptwo=&hvadid=312069250960&hvpos=&hvnetw=g&hvrand=11736503483181217803&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029605&hvtargid=pla-434062911726">
+          <b>David and Goliath</b>
+        </a>
+        <p>Malcom Gladwell</p>
+        <p>Rating: 4/5</p>
+        <p>
+          Average book with the best ending of any book I&apos;v read. About how
+          strengths are not always strenghts and weakness is not always weakness
+        </p>
+        <p>Humility and forgiveness are the best way to act in any situation</p>
+      </div>
+      <div className="mt-8 w-96">
         <a href="https://www.amazon.com/Napoleon-Life-Andrew-Roberts/dp/0143127853/ref=asc_df_0143127853/?tag=hyprod-20&linkCode=df0&hvadid=312021252609&hvpos=&hvnetw=g&hvrand=9416865979249217082&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029471&hvtargid=pla-435230722737&psc=1&mcid=cc5ea21cd03a3a94974cbb2d6753f6bc">
           <b>Napoleon: A Life</b>
         </a>
