@@ -13,6 +13,56 @@ export default function Home() {
       <h2 className="mt-4">2024</h2>
 
       <div className="mt-8 w-96">
+        <a href="">
+          <b>Read Write Own</b>
+        </a>
+        <p>Chris Dixon</p>
+        <p>Rating: 3/5</p>
+        <p>
+      Chris Dixon&apos;s thesis on why crypto is still exciting.
+        </p>
+        <p>
+       It got me really excited about the future of crypto
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Invention-Innovation-Brief-History-Failure/dp/B0BZ8YR63G/ref=sr_1_1?crid=3PBVQVUS7F1PR&dib=eyJ2IjoiMSJ9.7ayq3UBIPzPgkmM98CK1eAiWteZcXfBubeMLx3Uh3l04wJK_XGc7OFCq8Ep0TsHJGKBslnLaATMpvNY9JgKzxLZVSWzjC3YOv1qQjmRCTypIT1Ljmj4s2y59IwjYGD-Mo16UUhC2qoVZQeRqE2O8bH7JJiosFE1-zUeySrxMwMLCMBfwKTZOkzJqJEyGCVYhHfbAlawwg88MYRIgZSmeIE2OB80P4xTtZ8UdaZ14aoo.0re6smWC6_ClSARV7AKho-UjpMiClol5sQ1-EdetOuM&dib_tag=se&keywords=invention+and+innovation+vaclav+smil&qid=1726371196&sprefix=innovation+and+invention%2Caps%2C226&sr=8-1">
+          <b>Invention and Innovation</b>
+        </a>
+        <p>Vaclav Smil</p>
+        <p>Rating: 1/5</p>
+        <p>
+      A study on when innovative hype fails. Interesting, but I fundamntally disagreed with the thesis of the book
+        </p>
+        <p>
+        Technological innovation follows cycles
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Competitive-Strategy-Techniques-Industries-Competitors/dp/0684841487/ref=sr_1_1?crid=2O8PRIEUSSM7K&dib=eyJ2IjoiMSJ9.PtjTX2WD3HhHwQfPW6dMyFLrANaiJkNYohIKrKwPHne-TpVjVC5qvVxcShP_zfmqK4JpI8vwLxOMGcoRMi3FSVp2CriX57QVNClHxKBu83ZQ9GYswrgE_RsCE4D49FXXf7P_Oq_F_7ZMF8zgMjUq-xy6iGc2zF24uGmbtNq6O8NRz1Z5fiAEnKQk3j2KzIXOsFvL9M6CksLX2eQCz4SoSWR-AkOos5FPnuN3pxHW1rY.Cg3E-vzzb9-UScq6EY1WDpxd4fMmpBtvprmwj8qudcc&dib_tag=se&keywords=competitive+strategy+michael+porter&qid=1726370880&sprefix=competitive+st%2Caps%2C238&sr=8-1">
+          <b>Competitive Strategy</b>
+        </a>
+        <p>Michael Porter</p>
+        <p>Rating: 2/5</p>
+        <p>
+       Just a business book
+        </p>
+        <p>
+          Honestly didn&apos;t take anything from this book
+        </p>
+      </div>
+      <div className="mt-8 w-96">
+        <a href="https://www.amazon.com/Histories-Penguin-Classics-Deluxe-ebook/dp/B00G3L1900/ref=sr_1_5?crid=1IKJ54F8Z06HU&dib=eyJ2IjoiMSJ9.NpyPFktq1QRXHPm5pGgzoN1uETlZbITNb8AmsrVNnDlDd_JDoP_cvgVaoY8zdIr-hKkUgJempv95Vc1oTcTAu5giCsj476_6F-l8ygKi4WT2kkLEhbUKqgOkBIBQrF_RyzCcjdmGyRRhUZMlfjxsyu0czuGRj5EQ2-X_7Qli7fgqgsGW1Hm3caenMvNiOHum3Xlmc79coZ_5DOLoV8Itnz8evsChMx-9zYc5TSohuFg.JqOPW3kg8-5c74iZTXyxRNXwFpg8XScyoCA0EmEpWis&dib_tag=se&keywords=the+histories+herodotus&qid=1726370773&sprefix=the+histories+her%2Caps%2C178&sr=8-5">
+          <b>The Histories</b>
+        </a>
+        <p>Heroditus</p>
+        <p>Rating: 2/5</p>
+        <p>
+         Interesting to read what the ancients thought about the world
+        </p>
+        <p>We don&apos;t live all that differently from the ancients</p>
+      </div>
+      <div className="mt-8 w-96">
         <a href="https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374/ref=asc_df_0316204374/?tag=hyprod-20&linkCode=df0&hvadid=312069250960&hvpos=&hvnetw=g&hvrand=11736503483181217803&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029605&hvtargid=pla-434062911726&psc=1&mcid=cfae89efd6b2340f935b3722b81bb6ac&tag=&ref=&adgrpid=61316180599&hvpone=&hvptwo=&hvadid=312069250960&hvpos=&hvnetw=g&hvrand=11736503483181217803&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029605&hvtargid=pla-434062911726">
           <b>David and Goliath</b>
         </a>
