@@ -18,7 +18,9 @@ export default function Home() {
       <Link href={"/interests/books"} className="hover:text-blue-200">
         Books
       </Link>
-      <p>Web design</p>
+     <Link href={"/interests/web-design"} className="hover:text-blue-200">
+        Web Design
+      </Link>
       <p>Programming</p>
     </main>
   );
