@@ -11,10 +11,13 @@ export default function Home() {
       <p>A list of websites I think are cool</p>
 
       <li>
-        <a href="https://www.nardone-automotive.com/the-928">Nardone Automotive</a>
+        <a href="https://www.nardone-automotive.com/the-928">
+          Nardone Automotive
+        </a>
       </li>
-
-
+      <li>
+        <a href="https://www.typewolf.com/">Typewolf</a>
+      </li>
     </main>
   );
 }
