@@ -1,0 +1,60 @@
+{{define "head"}}
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta description="Hunter Simmons personal website">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+    <link rel="icon" href="/assets/imgs/icon.jpeg" type="image/jpeg" sizes="400x400" />
+    <link rel="preload" href="/assets/fonts/khInterference.woff" as="font" crossorigin="" type="font/woff" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=arrow_back_ios" />
+    <title>Hunter Simmons</title>
+
+    <style type="text/tailwindcss">
+        @font-face {
+            font-family: khInterference;
+            src: url(/assets/fonts/khInterference.woff) format("woff");
+            font-display: swap
+        }
+
+        :host,
+        main {
+            line-height: 1.5;
+            -webkit-text-size-adjust: 100%;
+            -moz-tab-size: 4;
+            -o-tab-size: 4;
+            tab-size: 4;
+            font-family: khInterference;
+            -webkit-tap-highlight-color: transparent
+        }
+
+        :root {
+            --foreground-rgb: 8, 76, 207;
+            --background-start-rgb: 224, 220, 214;
+            --background-end-rgb: 224, 220, 214;
+        }
+
+        body {
+            color: rgb(var(--foreground-rgb));
+            background: linear-gradient(to bottom,
+                    transparent,
+                    rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+        }
+
+        h1 {
+            font-size: xx-large;
+        }
+
+        h2 {
+            font-size: x-large;
+        }
+
+        a:hover {
+            color: rgb(168, 190, 233);
+        }
+    </style>
+</head>
+{{end}}

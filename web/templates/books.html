@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{template "head"}}
+
+<body>
+
+    <main class="flex flex-col items-center justify-between p-24">
+        <a href="/">
+            <span class="material-symbols-outlined absolute top-10 left-10 m-4">
+                arrow_back_ios
+            </span>
+        </a>
+        <h1>Books</h1>
+        <p>A list of books I&apos;ve read and what I thought about them</p>
+
+        {{- $currentYear := 0 -}}
+        {{range .}}
+        {{- if ne $currentYear .YearRead -}}
+        {{- if ne $currentYear 0 -}}
+        </div>
+        {{- end -}}
+        <h2 class="mt-4">{{.YearRead}}</h2>
+        {{- $currentYear = .YearRead -}}
+        {{- end -}}
+        <div class="mt-8 w-96">
+            <a href="{{.Link}}">
+                <b>{{.Title}}</b>
+            </a>
+            <p>{{.Author}}</p>
+            <p>Rating: {{.Rating}}/5</p>
+            <p>{{.Summary}}</p>
+            <p>{{.PersonalTake}}</p>
+        </div>
+        {{end}}
+    </main>
+
+</html>
